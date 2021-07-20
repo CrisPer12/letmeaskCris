@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="400px" src="https://github.com/CrisPer12/moveYouApp/blob/main/logo.svg" />
+  <img width="400px" src="https://github.com/CrisPer12/letmeaskCris/blob/main/src/assets/images/logo.svg" />
   <br />
 </h1>
 <p align="center">

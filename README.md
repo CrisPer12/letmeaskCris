@@ -20,7 +20,7 @@
 </div>
 
 ## :page_facing_up: Descrição
-O LetmeAks é um aplicação de perguntas e resposta para quem faz lives, uma aplicação desenvolvida durante a NLW#6 da Rocktseat.
+O LetmeAsk é um aplicação de perguntas e resposta para quem faz lives, uma aplicação desenvolvida durante a NLW#6 da Rocktseat.
 
 <!-- ## :art: Layout
 Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravês <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0">desse link<a>. -->
